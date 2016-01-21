@@ -1,3 +1,3 @@
-FROM drydock/u12nod:prod
+FROM python:slim
 
 RUN mkdir -p /tmp/logs
